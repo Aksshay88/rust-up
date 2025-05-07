@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    let mut x = 5;
+   x = "hello"; // <- this will show an error
 }
